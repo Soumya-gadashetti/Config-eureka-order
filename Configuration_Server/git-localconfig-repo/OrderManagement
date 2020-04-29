@@ -1,0 +1,8 @@
+
+
+spring.datasource.url=jdbc:mysql://localhost:3306/ordermana
+spring.datasource.username=root
+spring.datasource.password=welcome
+spring.datasource.driver-class-name=com.mysql.jdbc.Driver
+spring.jpa.database-platform = org.hibernate.dialect.MySQL5Dialect
+spring.jpa.hibernate.ddl-auto=update
